@@ -12,11 +12,11 @@
     <uninstallType />
   </general>
   <variable idx='0'>
-    <name>usrLicence</name>
+    <name>webroot_keycode</name>
     <type>string</type>
     <direction>false</direction>
-    <description>Twenty-four character Webroot SecureAnywhere licence key.</description>
-    <defaultVal>1234-1234-etc</defaultVal>
+    <description>Twenty-four character Webroot SecureAnywhere licence key. This should typically be set at the site level</description>
+    <defaultVal></defaultVal>
   </variable>
   <variable idx='1'>
     <name>usrConfirmReboot</name>
